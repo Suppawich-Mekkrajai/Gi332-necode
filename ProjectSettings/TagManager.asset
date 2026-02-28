@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Projectile
+  - Pickup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3770133401
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: coin
+    uniqueID: 3061049485
+    locked: 0
+  - name: player
+    uniqueID: 623927825
+    locked: 0
+  m_RenderingLayers:
+  - Default
